@@ -184,3 +184,16 @@ char func(string c) {
  // do something
 }
 ```
+
+```cpp
+int add(int a, int b);
+//int, int -> int
+string echo(string phrase);
+//string -> string
+string helloworld();
+//void -> string
+double divide(int a, int b);
+//int, int -> double
+```
+
+#### Function overloading
