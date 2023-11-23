@@ -29,7 +29,7 @@ HPC是High Performance Computing的缩写，意为高性能计算。它是一种
   - ASC
   - ISC
 - Nationwide
-  - Hosted by commercial company: 
+  - Hosted by commercial company:
     - 先导杯
     - PAC
     - various hackathon
