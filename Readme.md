@@ -1,12 +1,12 @@
-# Introduction
+# 介绍
 
-It's the notebook with some notes when the author have taken in their studys in Computer Science.
+这是一个笔记本，记录了作者在计算机科学学习过程中的一些笔记。
 
-## Self Study
+## 自学
 
-### Courses being learned
+### 正在学习的课程
 
-**CS106L: Standard C++ Programming** *Stanford*
+**CS106L: 标准C++编程** *斯坦福大学*
 
-> The project is still in the building process.
-> Special Ackonledgement: csdiy.wiki
+> 该项目仍在建设中。
+> 特别鸣谢：csdiy.wiki
